@@ -2,6 +2,6 @@
 
 Egal was hiersteht
 
-dieses ist der zweite Streichfalschfalschfalsch
+dieses ist der zweite Streich falsch falsch falsch
 
 
